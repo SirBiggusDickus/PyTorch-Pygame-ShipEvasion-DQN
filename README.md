@@ -7,3 +7,5 @@ it includes 2 programs. one Pygame that looks like this;
 
 which (slowly) trains the agent, and one seperate program that includes semi-realistic ship simulation using Pygame. I never managed to combine the two together within the available time of the project.
 feel free to look around. Use it as a template for learning Pygame https://www.pygame.org/docs/ and/or Pytorch https://pytorch.org/ .
+
+If you'r interested in the research, the zip includes a powerpoint and paper from the project which attempts to explain the story of the project.
